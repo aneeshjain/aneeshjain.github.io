@@ -28,7 +28,7 @@ Work experience
 ======
 <h3>Cadence Solutions</h3>
 
-  ***ML Engineering Intern, May 2022 - Present***
+  **ML Engineering Intern, May 2022 - Present**
 
   *Automated evaluation of clinical reports for hypertensive patients using Neural Question Answering*
   * Utilized technologies like **NLP**, **(Named Entity Recigniton)NER**, **OCR**, **Redis**, **Python** and **AWS**, to design, develop, and deploy an advanced **ML** solution for medical report parsing.
@@ -37,7 +37,7 @@ Work experience
 
 <h3>Virginia Tech</h3>
 
-  ***Research Assistant, Aug 2021 - Dec 2022***
+  **Research Assistant, Aug 2021 - Dec 2022**
   * Released a **novel, large, parallel** programming language dataset to foster Deep Learning research in **code search, translation, summarization and synthesis**; presented benchmarks for all tasks([GitHub](https://github.com/reddy-lab-code-research/XLCoST), [HuggingFace](https://huggingface.co/datasets/codeparrot/xlcost-text-to-code)).
   * Developed a **Reinforcement Learning(RL)** algorithm and reward function in **PyTorch**, that uses code compilation signal, syntax trees and data flow graphs as feedback to improve **code translation** quality.
   * Achieved a **6.5%** improvement in the compilation rate of generated translations using the RL algorithm.
