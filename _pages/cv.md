@@ -42,11 +42,10 @@ Work experience
   <h3>Research Assistant</h3>
 
   *Aug 2021 - Dec 2022*
-  <!-- * Released a **novel, large, parallel** programming language dataset to foster Deep Learning research in **code search, translation, summarization and synthesis**; presented benchmarks for all tasks([GitHub](https://github.com/reddy-lab-code-research/XLCoST), [HuggingFace](https://huggingface.co/datasets/codeparrot/xlcost-text-to-code)).
-  * Developed a **Reinforcement Learning(RL)** algorithm and reward function in **PyTorch**, that uses code compilation signal, syntax trees and data flow graphs as feedback to improve **code translation** quality.
-  * Achieved a **6.5%** improvement in the compilation rate of generated translations using the RL algorithm.
-  * Developed an **evaluation** framework for code translation quality using **Python** which **automated compilation, test
-  generation and execution**. -->
+  [comment]: <> (* Released a **novel, large, parallel** programming language dataset to foster Deep Learning research in **code search, translation, summarization and synthesis**; presented benchmarks for all tasks([GitHub](https://github.com/reddy-lab-code-research/XLCoST), [HuggingFace](https://huggingface.co/datasets/codeparrot/xlcost-text-to-code)).)
+  [comment]: <> (* Developed a **Reinforcement Learning(RL)** algorithm and reward function in **PyTorch**, that uses code compilation signal, syntax trees and data flow graphs as feedback to improve **code translation** quality.)
+  [comment]: <> (* Achieved a **6.5%** improvement in the compilation rate of generated translations using the RL algorithm.)
+  [comment]: <> (* Developed an **evaluation** framework for code translation quality using **Python** which **automated compilation, test generation and execution**.)
 
   * Successfully released a **novel** and extensive **parallel** programming language dataset to drive innovative Deep Learning research in the areas of **code search, translation, summarization, and synthesis**. Presented comprehensive benchmarks to showcase its potential([GitHub](https://github.com/reddy-lab-code-research/XLCoST), [HuggingFace](https://huggingface.co/datasets/codeparrot/xlcost-text-to-code)).
   * Designed and implemented a state-of-the-art **Reinforcement Learning (RL)** algorithm and corresponding reward function in **PyTorch**, leveraging syntax trees and data flow graphs to enhance the syntactic accuracy of code translations.
