@@ -28,7 +28,9 @@ Work experience
 ======
 <h2>Cadence Solutions</h2>
 
-  <h3>ML Engineering Intern, May 2022 - Present</h3>
+  <h3>ML Engineering Intern</h3>
+  
+  *May 2022 - Present*
 
   *Automated evaluation of clinical reports for hypertensive patients using Neural Question Answering*
   * Utilized technologies like **NLP**, **(Named Entity Recigniton)NER**, **OCR**, **Redis**, **Python** and **AWS**, to design, develop, and deploy an advanced **ML** solution for medical report parsing.
@@ -53,7 +55,7 @@ Work experience
   * End-to-end Project Management – planning sprints, designing solutions and negotiating costs.
 
   <h3>Software Development Intern, Aug 2018 - Dec 2018</h3>
-  
+
   * Developed an end-to-end ETL pipeline for automated attendance verification using Microsoft Face API and deployed it to AWS Lambda which reduced verification time by 75% and cost by ∼ $50, 000.
   * Deployed internal automation solutions to production on AWS leveraging Lambda Functions and SageMaker.
 
