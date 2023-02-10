@@ -11,12 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.E. in Computer Engineering, Thapar Institute of Engineering & Technology, *Jul 2015 - Jun 2019*
-  * GPA 8.24/10.0
-* M.S. in Computer Science (*Thesis Track*), Virginia Tech, *Jan 2021 - Dec 2022*
-  * GPA 4.0/4.0
+<h3>Thapar Institute of Engineering & Technology</h3>
+
+* B.E. in Computer Engineering, *Jul 2015 - Jun 2019*
+  * ***GPA 8.24/10.0***
+
+<h3>Virginia Tech</h3>
+
+* M.S. in Computer Science (*Thesis Track*), *Jan 2021 - Dec 2022*
+  * ***GPA 4.0/4.0***
   * [Graduate Certificate in Data Analytics](https://www.michaelsutter.com/ediploma?fn=diplomastatuscheck&key=02000000ffd21ae1c9aa397065f48993e175be119b2c8558268e0c474a8dcb2e815e8797d2d83a7a62300a5890b6aa379f2cfe444fa8e5417935b361b5669a92c903290d)
-  
+
 Work experience
 ======
 * Summer 2015: Research Assistant
