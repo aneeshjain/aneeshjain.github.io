@@ -38,6 +38,7 @@ Work experience
 <h2>Virginia Tech</h2>
 
   <h3>Research Assistant, Aug 2021 - Dec 2022</h3>
+
   * Released a **novel, large, parallel** programming language dataset to foster Deep Learning research in **code search, translation, summarization and synthesis**; presented benchmarks for all tasks([GitHub](https://github.com/reddy-lab-code-research/XLCoST), [HuggingFace](https://huggingface.co/datasets/codeparrot/xlcost-text-to-code)).
   * Developed a **Reinforcement Learning(RL)** algorithm and reward function in **PyTorch**, that uses code compilation signal, syntax trees and data flow graphs as feedback to improve **code translation** quality.
   * Achieved a **6.5%** improvement in the compilation rate of generated translations using the RL algorithm.
@@ -46,11 +47,13 @@ Work experience
 
 <h2>Unilever</h2>
 
-  <h3>Project Lead, Jul 2019 - Jun 2020<h3>
+  <h3>Project Lead, Jul 2019 - Jun 2020</h3>
+
   * Led a team of 3 engineers to build data pipelines for parsing financial documents using OCR.
   * End-to-end Project Management – planning sprints, designing solutions and negotiating costs.
 
-  <h3>Software Development Intern, Aug 2018 - Dec 2018<h3>
+  <h3>Software Development Intern, Aug 2018 - Dec 2018</h3>
+  
   * Developed an end-to-end ETL pipeline for automated attendance verification using Microsoft Face API and deployed it to AWS Lambda which reduced verification time by 75% and cost by ∼ $50, 000.
   * Deployed internal automation solutions to production on AWS leveraging Lambda Functions and SageMaker.
 
