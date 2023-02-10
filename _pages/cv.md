@@ -44,30 +44,26 @@ Work experience
   * Developed an **evaluation** framework for code translation quality using **Python** which **automated compilation, test
   generation and execution**.
 
+<h3>Unilever</h3>
+
+  **Project Lead, Jul 2019 - Jun 2020**
+  * Led a team of 3 engineers to build data pipelines for parsing financial documents using OCR.
+  * End-to-end Project Management – planning sprints, designing solutions and negotiating costs.
+
+  **Software Development Intern, Aug 2018 - Dec 2018**
+  * Developed an end-to-end ETL pipeline for automated attendance verification using Microsoft Face API and deployed it to AWS Lambda which reduced verification time by 75% and cost by ∼ $50, 000.
+  * Deployed internal automation solutions to production on AWS leveraging Lambda Functions and SageMaker.
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Languages & Tools:** Python, C++, SQL, PyTorch, OpenCV, Pandas, AWS
+* **Courses:** Data Structures & Algorithms, Advanced ML, Deep Learning, NLP, Data Analytics, Computer Vision, DBMS
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
