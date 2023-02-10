@@ -28,7 +28,7 @@ Work experience
 ======
 <h3>Cadence Solutions</h3>
 
-  **ML Engineering Intern, May 2022 - Present**
+  <h4>ML Engineering Intern, May 2022 - Present</h4>
 
   *Automated evaluation of clinical reports for hypertensive patients using Neural Question Answering*
   * Utilized technologies like **NLP**, **(Named Entity Recigniton)NER**, **OCR**, **Redis**, **Python** and **AWS**, to design, develop, and deploy an advanced **ML** solution for medical report parsing.
