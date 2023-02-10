@@ -31,6 +31,7 @@ Work experience
   <h3>ML Engineering Intern</h3>
   
   *May 2022 - Present*
+  
   *Automated evaluation of clinical reports for hypertensive patients using Neural Question Answering*
   * Utilized technologies like **NLP**, **(Named Entity Recigniton)NER**, **OCR**, **Redis**, **Python** and **AWS**, to design, develop, and deploy an advanced **ML** solution for medical report parsing.
   * Significantly improved operational efficiency, saving an estimated **50 work hours** per week of clinician time since reports were originally manually perused.
