@@ -26,16 +26,24 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<h3>Cadence Solutions</h3>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+  ***ML Engineering Intern, May 2022 - Present***
+
+  *Automated evaluation of clinical reports for hypertensive patients using Neural Question Answering*
+  * Utilized technologies like **NLP**, **(Named Entity Recigniton)NER**, **OCR**, **Redis**, **Python** and **AWS**, to design, develop, and deploy an advanced **ML** solution for medical report parsing.
+  * Significantly improved operational efficiency, saving an estimated **50 work hours** per week of clinician time since reports were originally manually perused.
+  * Increased patient enrollment by **100%** by virtue of processing a higher volume of documents and more accurate patient identification.
+
+<h3>Virginia Tech</h3>
+
+  ***Research Assistant, Aug 2021 - Dec 2022***
+  * Released a **novel, large, parallel** programming language dataset to foster Deep Learning research in **code search, translation, summarization and synthesis**; presented benchmarks for all tasks([GitHub](https://github.com/reddy-lab-code-research/XLCoST), [HuggingFace](https://huggingface.co/datasets/codeparrot/xlcost-text-to-code)).
+  * Developed a **Reinforcement Learning(RL)** algorithm and reward function in **PyTorch**, that uses code compilation signal, syntax trees and data flow graphs as feedback to improve **code translation** quality.
+  * Achieved a **6.5%** improvement in the compilation rate of generated translations using the RL algorithm.
+  * Developed an **evaluation** framework for code translation quality using **Python** which **automated compilation, test
+  generation and execution**.
+
 Skills
 ======
 * Skill 1
@@ -63,6 +71,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
