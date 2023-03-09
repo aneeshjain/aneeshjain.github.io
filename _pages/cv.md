@@ -28,40 +28,41 @@ Work experience
 ======
 <h2>Cadence Solutions</h2>
 
-  <h3>ML Engineering Intern</h3>
+  <h3>Data Analytics & ML Engineering Intern</h3>
   
   *May 2022 - Present*
   
-  *Automated evaluation of clinical reports for hypertensive patients using Neural Question Answering*
-  * Utilized technologies like **NLP**, **(Named Entity Recigniton)NER**, **OCR**, **Redis**, **Python** and **AWS**, to design, develop, and deploy an advanced **ML** solution for medical report parsing.
+  *Automated data extraction from patients’ clinical reports, saving 50 work hours/week for clinicians*
+  * Engineered the service to convert pdfs into plain text(OCR), redact protected health information(Named Entity Recognition) and extract data from unstructured text using Transformer based Neural Question Answering..
   * Significantly improved operational efficiency, saving an estimated **50 work hours** per week of clinician time since reports were originally manually perused.
-  * Increased patient enrollment by **100%** by virtue of processing a higher volume of documents and more accurate patient identification.
+  * Accelerated run-time by implementing asynchronous batch processing, created session management cache using Redis, used S3 as intermediate data stores and surfaced final results to Snowflake.
 
 <h2>Virginia Tech</h2>
 
   <h3>Research Assistant</h3>
 
   *Aug 2021 - Dec 2022*
-
-  * Successfully released a **novel** and extensive **parallel** programming language dataset to drive innovative Deep Learning research in the areas of **code search, translation, summarization, and synthesis**. Presented comprehensive benchmarks to showcase its potential([GitHub](https://github.com/reddy-lab-code-research/XLCoST), [HuggingFace](https://huggingface.co/datasets/codeparrot/xlcost-text-to-code)).
-  * Designed and implemented a state-of-the-art **Reinforcement Learning (RL)** algorithm and corresponding reward function in **PyTorch**, leveraging syntax trees and data flow graphs to enhance the syntactic accuracy of code translations.
-  * Improved code translation quality by a remarkable **6.5%** through the application of the RL algorithm and innovative feedback mechanisms, such as code compilation signals.
-  * Created a comprehensive evaluation framework for code translation quality in **Python**, automating processes such as compilation, test generation, and execution for a streamlined and efficient evaluation process.
+  
+  *A multi-lingual dataset to benchmark Generative AI for Code*
+  * Curated 1 M data points in 7 programming languages and their natural language descriptions to support code translation, natural language to code generation, code summarization and natural language to code search([GitHub](https://github.com/reddy-lab-code-research/XLCoST), [HuggingFace](https://huggingface.co/datasets/codeparrot/xlcost-text-to-code)).
+  * Benchmarked the performance of current state of the art Transformer models like T5 and BERT on all supported tasks within our novel, large and multilingual dataset.
+  
+  *Execution-based Code Generation using Deep Reinforcement Learning*
+  * Developed evaluation framework for code translation quality to evaluate code compilability and executability.
+  * Conceptualized Reinforcement Learning(RL) algorithm in PyTorch, leveraging code compilation signal, syntax trees and data flow graphs as feedback; outperformed benchmark models by 13.4% in code translation.
 
 <h2>Unilever</h2>
 
   <h3>Project Lead</h3>
 
   *Jul 2019 - Jun 2020*
-  * Led a team of 3 engineers to build data pipelines for parsing financial documents using OCR.
-  * End-to-end Project Management – planning sprints, designing solutions and negotiating costs.
+  * Led a team of 3 software developers to build ETL data pipelines enabling automated processing of financial documents (vendor invoices, shipment logs, tax documents, etc.) saving ∼ $1 M annually.
+  * Coordinated end-to-end project management – planning and leading sprints, identifying and removing bottlenecks, negotiating costs and balancing resource allocation.
 
   <h3>Software Development Intern</h3>
 
   *Aug 2018 - Dec 2018*
-  * Developed an end-to-end ETL pipeline for automated attendance verification using Microsoft Face API and deployed it to AWS Lambda which reduced verification time by 75% and cost by ∼ $50, 000.
-  * Deployed internal automation solutions to production on AWS leveraging Lambda Functions and SageMaker.
-
+  * Developed an end-to-end ETL pipeline for automated attendance verification using Microsoft Face API and deployed it to AWS Lambda which reduced verification time by 75% and cost by ∼ $50 K annually.
 
 Skills
 ======
